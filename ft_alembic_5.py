@@ -1,6 +1,3 @@
-#!/usr/bin/env python3
-"""Alembic 5: 'from alchemy import ...' structure to access alchemy."""
-
 from alchemy import create_air
 
 print("=== Alembic 5 ===")

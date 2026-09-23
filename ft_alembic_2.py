@@ -1,6 +1,3 @@
-#!/usr/bin/env python3
-"""Alembic 2: 'import ...' structure to access alchemy/elements.py."""
-
 import alchemy.elements
 
 print("=== Alembic 2 ===")

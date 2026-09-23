@@ -1,6 +1,3 @@
-#!/usr/bin/env python3
-"""Distillation 1: 'import alchemy' to brew potions, with heal alias."""
-
 import alchemy
 
 print("=== Distillation 1 ===")

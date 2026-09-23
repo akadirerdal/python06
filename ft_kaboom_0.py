@@ -1,6 +1,3 @@
-#!/usr/bin/env python3
-"""Kaboom 0: record a light spell through the grimoire module."""
-
 from alchemy import grimoire
 
 print("=== Kaboom 0 ===")

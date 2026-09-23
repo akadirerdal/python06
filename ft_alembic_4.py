@@ -1,6 +1,3 @@
-#!/usr/bin/env python3
-"""Alembic 4: 'import alchemy' and the limits of the interface."""
-
 import alchemy
 
 print("=== Alembic 4 ===")

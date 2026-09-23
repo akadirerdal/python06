@@ -1,6 +1,3 @@
-#!/usr/bin/env python3
-"""Alembic 1: 'from ... import ...' structure to access elements.py."""
-
 from elements import create_water
 
 print("=== Alembic 1 ===")
